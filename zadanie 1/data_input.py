@@ -1,0 +1,5 @@
+data = input("Enter name, surname and date of birth: \n")
+data_split = data.split()
+print("Name: " + data_split[0])
+print("Surname: " + data_split[1])
+print("Year of birth: " + data_split[2])

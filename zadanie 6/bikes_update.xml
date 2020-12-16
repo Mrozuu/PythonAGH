@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<bikes>
+    <bike type="mountain">
+        <name>Hexagon</name>
+        <number>10</number>
+        <brand>Kross</brand>
+    </bike>
+    <bike type="road">
+        <name>Huragan</name>
+        <number>10</number>
+        <brand>Romet</brand>
+    </bike>
+    <bike type="hybrid">
+        <name>Evado</name>
+        <number>10</number>
+        <brand>Saveno</brand>
+    </bike>
+</bikes>
